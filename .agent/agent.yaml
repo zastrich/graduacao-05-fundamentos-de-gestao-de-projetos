@@ -1,0 +1,29 @@
+name: "Estudante IA"
+description: "Agente autônomo simulando um estudante de graduação em IA e Automação."
+version: "1.0.0"
+
+capabilities:
+  - read_file
+  - write_file
+  - analyze_text
+  - generate_markdown
+
+skills:
+  - study_material
+  - summarize_content
+  - generate_project_plan
+  - organize_deliverables
+
+workflows:
+  - study_and_summarize
+  - create_final_project_plan
+  - prepare_delivery
+
+memory:
+  disciplinas: ".agent/memory/disciplinas_estudadas.json"
+  projetos: ".agent/memory/projetos_planejados.json"
+
+directories:
+  source: "src/"
+  assets: "assets/"
+  agent_root: ".agent/"

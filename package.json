@@ -1,0 +1,30 @@
+{
+  "name": "graduacao-05-fundamentos-de-gestao-de-projetos",
+  "version": "1.0.0",
+  "description": "Este repositório implementa um agente autônomo que simula o comportamento de um estudante universitário organizado e técnico.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zastrich/graduacao-05-fundamentos-de-gestao-de-projetos.git"
+  },
+  "keywords": [],
+  "author": "Zastrich <zas@code200.com.br>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zastrich/graduacao-05-fundamentos-de-gestao-de-projetos/issues"
+  },
+  "homepage": "https://github.com/zastrich/graduacao-05-fundamentos-de-gestao-de-projetos#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "pdf-parse": "^2.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

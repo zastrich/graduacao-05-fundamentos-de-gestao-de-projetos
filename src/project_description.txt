@@ -1,0 +1,100 @@
+
+
+# FILE: TRABALHO - Gestão de Projetos.docx.pdf
+
+1. TÍTULO:
+Do Problema ao Produto: Planejamento de um Produto Digital com IA, MVP e Roadmap
+2. DESAFIO:
+Empresas de tecnologia e produtos digitais pagam caro por gestores que entregam valor
+rapidamente, minimizam riscos e estruturam evolução de produto com clareza. Eles não
+querem teoria — querem roadmaps executáveis, MVPs bem definidos e planos de
+mitigação de risco que funcionem de verdade.
+Você foi convidado como Product Manager / Project Manager por um startup studio que
+está incubando um produto digital apoiado em IA Generativa para atender um problema
+real de um cliente.
+O cliente quer uma solução digital baseada em IA para ajudar um time interno a gerar
+insights automáticos a partir de dados de atendimento ao cliente (tickets, chats, e-mails).
+O time possui volumes gigantescos de interações e não consegue priorizar temas críticos
+nem gerar planos de ação rápidos.
+Como estruturar uma solução de produto digital com IA que seja viável de desenvolver
+rapidamente e mitigando riscos técnicos e de mercado?
+Você deve planejar o produto e o projeto com:
+● visão clara de produto,
+● proposta de MVP,
+● roadmap realista,
+● ciclo de vida planejado,
+● e gestão de riscos aplicada à solução.
+Não é construir a solução em código.
+É planejar estrategicamente o produto e o projeto como um gestor de verdade.
+3. FONTE DE PESQUISA:
+● Disciplina: Fundamentos de Gestão de Projetos
+Conteúdos abordados em aula: visão de produto, MVP, roadmap, ciclo de vida,
+riscos e gestão de produtos com IA.
+● PMI – Project Management Institute
+Conceitos base de gerenciamento de projetos, riscos e ciclo de vida.
+https://www.pmi.org
+● Scrum Guide (2020)
+Para entendimento de entrega incremental, valor e ciclos curtos.
+https://scrumguides.org
+5. ENTREGÁVEL E DISTRIBUIÇÃO DA PONTUAÇÃO:
+Sua entrega final será composta por 3 entregáveis obrigatórios, totalizando 7,0 pontos.
+O objetivo é planejar e estruturar um produto digital com uso de IA, aplicando na prática
+os fundamentos de gestão de projetos e produtos, incluindo visão de produto, definição
+de MVP, roadmap, ciclo de vida e gerenciamento de riscos.
+1. Parte Teórica (1,5 pontos)
+No documento teórico (PDF, DOC ou Markdown), apresente:
+1.1 Visão de Produto
+● Descrição do produto digital
+● Público-alvo e problema atendido
+● Proposta de valor clara e objetiva
+1.2 Definição do MVP
+● Funcionalidades essenciais do MVP
+● Justificativa de priorização baseada em valor e viabilidade
+1.3 Roadmap do Produto
+● Roadmap com mínimo de 3 fases
+● Objetivos e entregáveis de cada fase
+1.4 Ciclo de Vida da Aplicação
+● Fases do produto (descoberta, validação, entrega, evolução)
+● Critérios para avanço entre fases
+1.5 Gerenciamento de Riscos
+● Identificação de no mínimo 5 riscos
+● Classificação de impacto e probabilidade
+● Estratégias de mitigação
+1.6 Gestão de Produtos e IA
+● Riscos específicos no uso de IA
+● Considerações éticas, segurança e confiabilidade
+● Impactos organizacionais do uso de IA no produto
+2. Parte Prática (3,5 pontos)
+Você deve entregar artefatos visuais e documentais, simulando a rotina real de um gestor
+de produto ou projeto.
+Artefatos obrigatórios
+● Canvas de Visão de Produto
+(Lean Canvas, Business Model Canvas ou similar)
+● Documento de MVP
+○ Lista de funcionalidades
+○ Prioridade
+○ Critérios de aceitação
+● Roadmap Visual
+○ Construído em ferramentas como Notion, Trello, Miro, FigJam ou similares
+○ Deve representar claramente as fases do produto
+● Matriz de Riscos
+○ Risco
+○ Probabilidade
+○ Impacto
+○ Plano de mitigação
+○ Responsável
+Material complementar obrigatório
+● Prints dos artefatos
+● Links públicos ou não listados das ferramentas utilizadas
+● README.md explicando a lógica do planejamento e como interpretar os artefatos
+3. Vídeo Pitch – até 4 minutos (2,0 pontos)
+Grave um vídeo apresentando sua solução como se estivesse defendendo o projeto para
+um gestor, cliente ou comitê executivo.
+O vídeo deve conter:
+● Contexto do problema
+● Visão do produto
+● MVP proposto
+● Roadmap
+● Principais riscos e mitigação
+● Justificativa estratégica das decisões tomadas
+📌 O vídeo deve estar hospedado em YouTube (pode ser não listado), com link acessível.
