@@ -22,14 +22,14 @@ O projeto seguiu as melhores práticas de Gestão de Projetos e Produtos, utiliz
 
 ## 📌 Principais Links
 
+- **Trabalho teórico** [📄 Trabalho Teórico](./assets/trabalho/Disciplina%20de%20Fundamentos%20de%20Gestão%20de%20Projetos%20-%20Trabalho%20Teórico.pdf)
+- **Lean Canvas + Matriz de Riscos + Roadmap** [🖼️ Miro](https://miro.com/app/board/uXjVGAX0NEQ=/?share_link_id=119143343156)
 - **Roadmap Visual (Trello):** [Acesse o Board do Projeto](https://trello.com/invite/b/6990eaa171fa0f1cf5a70e49/ATTIc97c3c88c31e016e3572fc185bf069b43F140572/ainsights)
-- **Documentação Teórica:** [Navegar por /src/trabalho-final/teorico/](./src/trabalho-final/teorico/)
+- **Vídeo de demonstração (Pitch):** [Acesse o Vídeo](https://youtu.be/-DsExJu9A5U)
 
 ## 🚀 Estrutura do Trabalho
 
 ### 1. Parte Teórica
-
-#### **[📄 Trabalho Teórico](./assets/trabalho/Disciplina%20de%20Fundamentos%20de%20Gestão%20de%20Projetos%20-%20Trabalho%20Teórico.pdf):** Trabalho teórico
 
 A documentação detalha a estratégia por trás do produto:
 - **[Visão de Produto](./src/trabalho-final/teorico/1-visao-produto.md):** Definição do problema e proposta de valor.
