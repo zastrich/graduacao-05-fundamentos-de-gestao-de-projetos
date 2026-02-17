@@ -7,9 +7,7 @@
 O **AI'nsights** é uma plataforma inteligente projetada para ajudar Gerentes de Customer Success (CS) a extrair valor estratégico de volumes massivos de interações (tickets, chats, e-mails), reduzindo o tempo de análise em até 80% e permitindo uma priorização baseada em dados reais e não em suposições.
 
 # Vídeo de demonstração (Pitch):
-[![Watch the video](https://img.youtube.com/vi/VQq2_zLRmw4/maxresdefault.jpg)](https://youtu.be/placeholder)
-
-*Nota: O link acima é um placeholder. O pitch final deve ser gravado e o link do YouTube atualizado aqui.*
+[![Watch the video](https://img.youtube.com/vi/-DsExJu9A5U/maxresdefault.jpg)](https://youtu.be/-DsExJu9A5U)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -30,6 +28,9 @@ O projeto seguiu as melhores práticas de Gestão de Projetos e Produtos, utiliz
 ## 🚀 Estrutura do Trabalho
 
 ### 1. Parte Teórica
+
+#### **[📄 Trabalho Teórico](./assets/trabalho/Disciplina%20de%20Fundamentos%20de%20Gestão%20de%20Projetos%20-%20Trabalho%20Teórico.pdf):** Trabalho teórico
+
 A documentação detalha a estratégia por trás do produto:
 - **[Visão de Produto](./src/trabalho-final/teorico/1-visao-produto.md):** Definição do problema e proposta de valor.
 - **[Definição do MVP](./src/trabalho-final/teorico/2-mvp-definicao.md):** Funcionalidades essenciais e critérios de priorização.
@@ -37,6 +38,7 @@ A documentação detalha a estratégia por trás do produto:
 - **[Ciclo de Vida](./src/trabalho-final/teorico/4-ciclo-de-vida.md):** Fases de descoberta até a evolução.
 - **[Gestão de Riscos](./src/trabalho-final/teorico/5-gestao-riscos.md):** Mitigação de problemas técnicos e de mercado.
 - **[IA e Ética](./src/trabalho-final/teorico/6-gestao-ia.md):** Considerações específicas sobre alucinações e privacidade.
+
 
 ### 2. Parte Prática
 Artefatos visuais gerados para simular a rotina de um Product Manager:
